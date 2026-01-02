@@ -24,7 +24,7 @@ Project này được xây dựng bằng **Python** với giao diện đồ họ
 
 ##  Giao diện (Screenshots)
 
-*(Bạn hãy chụp ảnh màn hình tool khi đang chạy và dán link ảnh vào đây sau khi up)*
+*(demo_dashboard.jpg)*
 
 ##  Cài đặt & Sử dụng
 
