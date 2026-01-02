@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sentinel_Project", "Sentinel_Project.pyproj", "{3A33E98F-F66C-4FD1-8F32-1FA5DA2B0794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A33E98F-F66C-4FD1-8F32-1FA5DA2B0794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A33E98F-F66C-4FD1-8F32-1FA5DA2B0794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D37B05-F8CA-4722-977B-855C6BE8085F}
+	EndGlobalSection
+EndGlobal
